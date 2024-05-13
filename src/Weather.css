@@ -31,8 +31,7 @@
   list-style: none;
 }
 .Weather img {
-  vertical-align: top;
-  margin-right: 10px;
+  width: 75px;
 }
 .Weather .temperature {
   font-weight: bold;
