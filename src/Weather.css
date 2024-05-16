@@ -30,8 +30,10 @@
   line-height: 19px;
   list-style: none;
 }
-.Weather img {
-  width: 75px;
+.Weather canvas {
+  height: 50px;
+  margin-right: 5px;
+  margin-top: 5px;
 }
 .Weather .temperature {
   font-weight: bold;
